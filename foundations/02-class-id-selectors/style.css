@@ -1,8 +1,8 @@
 /* stylesheet for 02-class-id-selectors */
 
-p {
+.odd {
     background-color: #ffb6c1;
-    font-family: "Verdana"; "DejaVu Sans"; sans-serif;
+    font-family: Verdana; "DejaVu Sans"; sans-serif;
 }
 
 #two {
